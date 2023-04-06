@@ -15,10 +15,6 @@
 ### :sparkles: GitHub Statistics :sparkles:
 <br>
 <p align="center">
-  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=lilemanalu&hide_border=true&theme=midnight-purple&fire=DD2727&sideLabels=F0F0F0&currStreakLabel=F0F0F0" alt="GitHub contribution streak" />
-</p>
-<br>
-<p align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lilemanalu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple&icon_color=DD2727" alt="GitHub stats" />
   &nbsp;&nbsp;&nbsp;
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilemanalu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple" alt="Top languages used" />
